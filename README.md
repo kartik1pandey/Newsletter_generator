@@ -10,8 +10,8 @@ Before you begin, make sure you have Python 3.7+ installed on your machine.
 To get started, clone the repository to your local machine.
 
 ```markdown
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone https://github.com/kartik1pandey/Newsletter_generator.git
+cd Newsletter_generator
 ```
 
 ### Step 2: Set Up a Virtual Environment
